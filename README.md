@@ -23,11 +23,11 @@ Here are a few of the projects I've worked on:
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAgustin9&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ### 📈 My Contributions
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AAgustin9&theme=radical)
 
 ### 📫 How to Reach Me
 
