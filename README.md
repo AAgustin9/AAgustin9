@@ -17,7 +17,7 @@ Here are a few of the projects I've worked on:
   - Tech Stack: Springboot, PostgreSQL, Azure, Auth0, Docker
   - [Link to the GitHub Repo](https://github.com/Ing-Sistemas/snippet-service)
   
-- **[2D board game]**: Its a simple but fun chess and checkers application that lets you play with your friends locally
+- **2D board game**: Its a simple but fun chess and checkers application that lets you play with your friends locally
   - Tech Stack: Kotin
   - [Link to the GitHub Repo](https://github.com/austral-ingsis-classroom/chess-AAgustin9)
 
