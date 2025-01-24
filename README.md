@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello! I'm **Agustin**, a passionate developer from **[Your Location]**. I specialize in **[Your Main Technologies/Tools]** and love building innovative solutions. Welcome to my GitHub, where I share my projects, experiments.
+Hello! I'm **Agustin**, a passionate developer from **Argentina**. I specialize in **Backend** and love building innovative solutions. Welcome to my GitHub, where I share my projects, experiments.
 
 ### 🔧 Technologies & Tools I Work With
 
